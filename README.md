@@ -1,6 +1,13 @@
 # Assignment: Creating a new Laravel Project
 
+All documentation files for this assignment is included in documentation folder in public directory.
+
 GitHub Repo: https://github.com/smahaduzzaman/ass-mod-13
+
+## Author Info:
+- Name: S M Ahaduzzaman
+- Email: smahaduzzaman96@gmail.com
+- Phone: 01729972223
 
 ## Part-01: Document the steps you took to install Laravel.
 

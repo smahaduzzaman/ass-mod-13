@@ -11,6 +11,9 @@ Route::get('/assignment', function () {
     return "Hello World";
 });
 
+Route::get('/blade', function () {
+    return view('congrats');
+});
 
 
 

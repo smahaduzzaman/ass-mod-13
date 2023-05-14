@@ -39,3 +39,6 @@ This will create a new Laravel project in a directory named project-name, and wi
 
 ## Part-03: Create documentation files
 These documentation files is included in documentation folder in public directory.
+
+## Optional:
+Here I have create a blade template with congrats and run it from this with newly created congrats route.
